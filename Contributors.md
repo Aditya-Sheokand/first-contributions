@@ -11,6 +11,7 @@
 - [Vina Q](https://github.com/mariavinaq)
 - [manymogo](https://github.com/manymogo)
 - [Kurt Renzo Jalalain](https://github.com/marshmallow218)
+-[puneet_pahuja](https://github.com/puneet_pahuja)
 -  [richard](https://github.com/RichardSima2021)
 - [Tyler Barlow] (https://github.com/barlowtyler96)
 - [Daniel Albano III] (https://github.com/danielalbano3)
